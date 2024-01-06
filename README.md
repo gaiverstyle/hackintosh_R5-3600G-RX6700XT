@@ -19,7 +19,7 @@ Disk 1(for macos): NVMe WD 500Go
 Disk 2(data): SATA Samsung 2To
 
 > [!CAUTION]
->You have to reset UEFI settins and follow Dortania's OpenCore Install Guide
+>You have to reset UEFI settings and follow Dortania's OpenCore Install Guide
 > Enable above 4G decoding and disable resize bar
 
 ## Software
