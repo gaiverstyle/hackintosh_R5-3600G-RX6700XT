@@ -33,4 +33,4 @@ MacOS version: Sonoma 14.2.1
 SMBIOS: iMAC 20,1   
 
 > [!IMPORTANT]
->You have to generate new serial number, UUID and ROM to use it with apple account!!
+>You have to generate new serial number, UUID and ROM to use it with apple account
