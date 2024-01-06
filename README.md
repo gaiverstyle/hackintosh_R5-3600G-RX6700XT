@@ -1,6 +1,8 @@
 # hackintosh_R5-3600G-RX6700XT
 EFI file for Sonoma hackintosh with opencore for Ryzen 5 3600G and RX6700XT
-![Uploading Capture d’écran 2024-01-06 à 22.46.23.png…]()
+
+![Capture d’écran 2024-01-06 à 22 46 23](https://github.com/gaiverstyle/hackintosh_R5-3600G-RX6700XT/assets/44124876/dfcfe2cf-d9c7-4077-b0b5-420bf6a4597b)
+
 
 ## Hardware:
 
