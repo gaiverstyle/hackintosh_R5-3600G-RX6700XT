@@ -23,4 +23,6 @@ OpenCore version: 0.9.6
 
 MacOS version: 14.2.1
 
-SMBIOS: iMAC 20,1   !!You have to generate new serial number,UUID and ROM to use it with apple account!!
+SMBIOS: iMAC 20,1   
+
+## !!You have to generate new serial number,UUID and ROM to use it with apple account!!
