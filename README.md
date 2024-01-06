@@ -5,7 +5,7 @@ EFI file for Sonoma hackintosh with opencore for Ryzen 5 3600G and RX6700XT with
 
 Motherboard: TUF B450-PLUS GAMING
 
-CPU: AMD Ryzen 5 3600G
+CPU: AMD Ryzen 5 3400G
 
 GPU: Sapphire RX6700XT
 
