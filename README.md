@@ -21,7 +21,7 @@ Others OS: Windows 11 & Ubuntu 23.10 on disk 1 (using OpenCore for the tri-boot)
 
 OpenCore version: 0.9.6
 
-MacOS version: 14.2.1
+MacOS version: Sonoma 14.2.1
 
 SMBIOS: iMAC 20,1   
 
