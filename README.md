@@ -18,6 +18,10 @@ Disk 1(for macos): NVMe WD 500Go
 
 Disk 2(data): SATA Samsung 2To
 
+> [!CAUTION]
+>You have to reset UEFI settins and follow Dortania's OpenCore Install Guide
+> Enable above 4G decoding and disable resize bar
+
 ## Software
 
 Others OS: Windows 11 & Ubuntu 23.10 on disk 1 (using OpenCore for the tri-boot)
